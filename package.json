@@ -1,7 +1,7 @@
 {
   "name": "goit-test",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://juliakarnauh.github.io/goit-test",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
